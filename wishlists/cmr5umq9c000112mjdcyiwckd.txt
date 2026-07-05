@@ -1,12 +1,4 @@
 title:showmaker
-// Threat Level
-dimwishlist:item=1523151869&perks=2679249093,2360754333#notes:tags:PVE — pve
-dimwishlist:item=1523151869&perks=2679249093,1226351311#notes:tags:PVE — pve
-dimwishlist:item=1523151869&perks=2289534249,2360754333#notes:tags:PVE — pve
-dimwishlist:item=1523151869&perks=2289534249,1226351311#notes:tags:PVE — pve
-dimwishlist:item=1523151869&perks=1556840489,2360754333#notes:tags:PVE — pve
-dimwishlist:item=1523151869&perks=1556840489,1226351311#notes:tags:PVE — pve
-// Threat Level
-dimwishlist:item=950894542&perks=1556840489,3640170453
+// 威胁等级
 dimwishlist:item=950894542&perks=3751912585,1226351311#notes:tags:PVE
 dimwishlist:item=950894542&perks=2679249093,2360754333#notes:tags:PVE
