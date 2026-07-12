@@ -1,4 +1,26 @@
 title:showmaker
+// 零镇静
+dimwishlist:item=3613444087&perks=689005463,3643424744,2594592626#notes:tags:PVE
+dimwishlist:item=3613444087&perks=689005463,3987942396,2594592626#notes:tags:PVE
+dimwishlist:item=3613444087&perks=689005463,1523832109,2594592626#notes:tags:PVE
+// 零镇静
+dimwishlist:item=2150643740&perks=689005463,3643424744,2594592626#notes:tags:PVE
+dimwishlist:item=2150643740&perks=689005463,3987942396,2594592626#notes:tags:PVE
+dimwishlist:item=2150643740&perks=689005463,1523832109,2594592626#notes:tags:PVE
+// 改型冒险
+dimwishlist:item=3103325054&perks=1354429876,365154968#notes:tags:PVE
+// 惩戒措施
+dimwishlist:item=3654744298&perks=2048641572,557221067#notes:tags:PVE
+// 忧愁之鸠
+dimwishlist:item=2601084711&perks=2048641572,557221067#notes:tags:PVE
+// 忧愁之鸠
+dimwishlist:item=3779290676&perks=2048641572,557221067#notes:tags:PVE
+// 远方黎明
+dimwishlist:item=2770617440&perks=2890807135,4293542123#notes:tags:PVE
+// 远方黎明
+dimwishlist:item=1484294659&perks=2890807135,4293542123#notes:tags:PVE
+// 痛苦结局
+dimwishlist:item=954563454&perks=1115162408,557221067#notes:tags:PVE
 // 热血上头
 dimwishlist:item=3960301269&perks=3987942396,3194351027#notes:tags:PVE
 dimwishlist:item=3960301269&perks=3987942396,3764420437#notes:tags:PVE
