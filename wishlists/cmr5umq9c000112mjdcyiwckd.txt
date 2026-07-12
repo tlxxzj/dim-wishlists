@@ -1,4 +1,16 @@
 title:showmaker
+// 蒙恩
+dimwishlist:item=3381450498&perks=1556840489,2173046394#notes:tags:PVE
+// 蒙恩
+dimwishlist:item=2554513694&perks=1421772400,2173046394#notes:tags:PVE
+// 食莲者
+dimwishlist:item=924095500&perks=1523832109,2048641572#notes:tags:PVE
+dimwishlist:item=924095500&perks=776531651,2048641572#notes:tags:PVE
+dimwishlist:item=924095500&perks=1421772400,2048641572#notes:tags:PVE
+// 食莲者
+dimwishlist:item=837298567&perks=1523832109,2048641572#notes:tags:PVE
+dimwishlist:item=837298567&perks=776531651,2048641572#notes:tags:PVE
+dimwishlist:item=837298567&perks=1421772400,2048641572#notes:tags:PVE
 // 好建议
 dimwishlist:item=3615748501&perks=3987942396,2319119708#notes:tags:PVE
 // 好建议
