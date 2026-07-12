@@ -1,4 +1,12 @@
 title:showmaker
+// 热血上头
+dimwishlist:item=3960301269&perks=3987942396,3194351027#notes:tags:PVE
+dimwishlist:item=3960301269&perks=3987942396,3764420437#notes:tags:PVE
+dimwishlist:item=3960301269&perks=3987942396,3078487919#notes:tags:PVE
+// 热血上头
+dimwishlist:item=1692372662&perks=3987942396,3194351027#notes:tags:PVE
+dimwishlist:item=1692372662&perks=3987942396,3764420437#notes:tags:PVE
+dimwishlist:item=1692372662&perks=3987942396,3078487919#notes:tags:PVE
 // 蒙恩
 dimwishlist:item=3381450498&perks=1556840489,2173046394#notes:tags:PVE
 // 蒙恩
@@ -18,9 +26,11 @@ dimwishlist:item=649691506&perks=3987942396,2319119708#notes:tags:PVE
 // 注视焦点
 dimwishlist:item=2827141087&perks=3987942396,3764420437#notes:tags:PVE
 dimwishlist:item=2827141087&perks=3987942396,3078487919#notes:tags:PVE
+dimwishlist:item=2827141087&perks=3987942396,3194351027#notes:tags:PVE
 // 注视焦点
 dimwishlist:item=2511482352&perks=3987942396,3078487919#notes:tags:PVE
 dimwishlist:item=2511482352&perks=3987942396,3764420437#notes:tags:PVE
+dimwishlist:item=2511482352&perks=3987942396,3194351027#notes:tags:PVE
 // 拜龙教镰刀
 dimwishlist:item=2525261820&perks=2077819806,243981275#notes:tags:PVE
 // 狂热理想
