@@ -1,56 +1,73 @@
 title:showmaker
-// Compact Defender
+// 好建议
+dimwishlist:item=3615748501&perks=3987942396,2319119708#notes:tags:PVE
+// 好建议
+dimwishlist:item=649691506&perks=3987942396,2319119708#notes:tags:PVE
+// 注视焦点
+dimwishlist:item=2827141087&perks=3987942396,3764420437#notes:tags:PVE
+dimwishlist:item=2827141087&perks=3987942396,3078487919#notes:tags:PVE
+// 注视焦点
+dimwishlist:item=2511482352&perks=3987942396,3078487919#notes:tags:PVE
+dimwishlist:item=2511482352&perks=3987942396,3764420437#notes:tags:PVE
+// 拜龙教镰刀
+dimwishlist:item=2525261820&perks=2077819806,243981275#notes:tags:PVE
+// 狂热理想
+dimwishlist:item=1863583117&perks=243981275,2890807135#notes:tags:PVE
+// 阴谋淬砺
+dimwishlist:item=4062069077&perks=1546637391,3078487919#notes:tags:PVE
+dimwishlist:item=4062069077&perks=1546637391,1771339417#notes:tags:PVE
+// 袖珍卫士
 dimwishlist:item=2819552809&perks=2048641572,776531651#notes:tags:PVE
 dimwishlist:item=2819552809&perks=807993149,3932949589,555281244#notes:tags:PVE
-// Compact Defender
+// 袖珍卫士
 dimwishlist:item=2659286158&perks=2048641572,776531651#notes:tags:PVE
 dimwishlist:item=2659286158&perks=807993149,3932949589,555281244#notes:tags:PVE
-// Mint Retrograde
+// 完美逆行
 dimwishlist:item=3285784871&perks=3418782618,1089671869#notes:tags:PVE
 dimwishlist:item=3285784871&perks=3987942396,3078487919#notes:tags:PVE
-// Mint Retrograde
+// 完美逆行
 dimwishlist:item=1715391576&perks=3418782618,1089671869#notes:tags:PVE
 dimwishlist:item=1715391576&perks=3987942396,3078487919#notes:tags:PVE
-// Edge Transit
+// 边缘交通
 dimwishlist:item=3736001863&perks=3987942396,3078487919#notes:tags:PVE
 dimwishlist:item=3736001863&perks=3987942396,3194351027#notes:tags:PVE
-// Refurbished A499
+// 翻新A499
 dimwishlist:item=3661051060&perks=957782887,3764420437#notes:tags:PVE
 dimwishlist:item=3661051060&perks=957782887,3300816228#notes:tags:PVE
-// Refurbished A499
+// 翻新A499
 dimwishlist:item=593808239&perks=957782887,3764420437#notes:tags:PVE
 dimwishlist:item=593808239&perks=957782887,3300816228#notes:tags:PVE
-// Sullen Claw
+// 阴沉利爪
 dimwishlist:item=1085743380&perks=3666208348,269888150,2077819806,3913600130#notes:tags:PVE
-// Uncivil Discourse
+// 无礼言论
 dimwishlist:item=3146657389&perks=807993149,3932949589,555281244#notes:tags:PVE
-// Uncivil Discourse
+// 无礼言论
 dimwishlist:item=2462965802&perks=807993149,3932949589,555281244#notes:tags:PVE
-// Yeartide Apex
+// 岁时之巅
 dimwishlist:item=2965080304&perks=243981275,3640170453#notes:tags:PVE
-// Yeartide Apex
+// 岁时之巅
 dimwishlist:item=3293207827&perks=243981275,3640170453#notes:tags:PVE
-// M-17 "Fast Talker"
+// M-17“快嘴”
 dimwishlist:item=2770035786&perks=807993149,243981275#notes:tags:PVE
-// M-17 "Fast Talker"
+// M-17“快嘴”
 dimwishlist:item=1419158093&perks=807993149,243981275#notes:tags:PVE
-// Hammerhead
+// 锤头
 dimwishlist:item=1346714574&perks=2048641572,557221067#notes:tags:PVE
-// Hammerhead
+// 锤头
 dimwishlist:item=850999853&perks=2048641572,557221067#notes:tags:PVE
-// The Slammer
+// 急锋
 dimwishlist:item=2466028274&perks=3666208348,269888150,2077819806,3650930298#notes:tags:PVE
 dimwishlist:item=2466028274&perks=3666208348,269888150,2077819806,3913600130#notes:tags:PVE
 dimwishlist:item=2466028274&perks=3666208348,269888150,2077819806,3708227201#notes:tags:PVE
 dimwishlist:item=2466028274&perks=3666208348,269888150,2077819806,3640170453#notes:tags:PVE
-// The Slammer
+// 急锋
 dimwishlist:item=189854537&perks=3666208348,269888150,2077819806,3650930298#notes:tags:PVE
 dimwishlist:item=189854537&perks=3666208348,269888150,2077819806,3913600130#notes:tags:PVE
 dimwishlist:item=189854537&perks=3666208348,269888150,2077819806,3708227201#notes:tags:PVE
 dimwishlist:item=189854537&perks=3666208348,269888150,2077819806,3640170453#notes:tags:PVE
-// Threat Level
+// 威胁等级
 dimwishlist:item=1523151869&perks=3751912585,1226351311#notes:tags:PVE
 dimwishlist:item=1523151869&perks=2679249093,2360754333#notes:tags:PVE
-// Threat Level
+// 威胁等级
 dimwishlist:item=950894542&perks=3751912585,1226351311#notes:tags:PVE
 dimwishlist:item=950894542&perks=2679249093,2360754333#notes:tags:PVE
