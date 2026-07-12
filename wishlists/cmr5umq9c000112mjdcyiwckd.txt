@@ -1,4 +1,10 @@
 title:showmaker
+// Compact Defender
+dimwishlist:item=2819552809&perks=2048641572,776531651#notes:tags:PVE
+dimwishlist:item=2819552809&perks=807993149,3932949589,555281244#notes:tags:PVE
+// Compact Defender
+dimwishlist:item=2659286158&perks=2048641572,776531651#notes:tags:PVE
+dimwishlist:item=2659286158&perks=807993149,3932949589,555281244#notes:tags:PVE
 // Mint Retrograde
 dimwishlist:item=3285784871&perks=3418782618,1089671869#notes:tags:PVE
 dimwishlist:item=3285784871&perks=3987942396,3078487919#notes:tags:PVE
@@ -10,8 +16,10 @@ dimwishlist:item=3736001863&perks=3987942396,3078487919#notes:tags:PVE
 dimwishlist:item=3736001863&perks=3987942396,3194351027#notes:tags:PVE
 // Refurbished A499
 dimwishlist:item=3661051060&perks=957782887,3764420437#notes:tags:PVE
+dimwishlist:item=3661051060&perks=957782887,3300816228#notes:tags:PVE
 // Refurbished A499
 dimwishlist:item=593808239&perks=957782887,3764420437#notes:tags:PVE
+dimwishlist:item=593808239&perks=957782887,3300816228#notes:tags:PVE
 // Sullen Claw
 dimwishlist:item=1085743380&perks=3666208348,269888150,2077819806,3913600130#notes:tags:PVE
 // Uncivil Discourse
