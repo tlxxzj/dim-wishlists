@@ -1,4 +1,8 @@
 title:showmaker
+// 扎乌利的克星
+dimwishlist:item=3647341740&perks=1840239774,3230963543,3038247973,4293542123#notes:tags:PVE
+// 扎乌利的克星
+dimwishlist:item=3066945855&perks=1840239774,3230963543,3038247973,4293542123#notes:tags:PVE
 // 忠侍左轮
 dimwishlist:item=3796682229&perks=3700496672,3891536761#notes:tags:PVE
 dimwishlist:item=3796682229&perks=3700496672,3038247973#notes:tags:PVE
