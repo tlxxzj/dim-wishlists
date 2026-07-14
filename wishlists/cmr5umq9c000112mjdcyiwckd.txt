@@ -1,4 +1,10 @@
 title:showmaker
+// 忠侍左轮
+dimwishlist:item=3796682229&perks=3700496672,3891536761#notes:tags:PVE
+dimwishlist:item=3796682229&perks=3700496672,3038247973#notes:tags:PVE
+// 忠侍左轮
+dimwishlist:item=59060498&perks=3700496672,3891536761#notes:tags:PVE
+dimwishlist:item=59060498&perks=3700496672,3038247973#notes:tags:PVE
 // 零镇静
 dimwishlist:item=3613444087&perks=689005463,3643424744,2594592626#notes:tags:PVE
 dimwishlist:item=3613444087&perks=689005463,3987942396,2594592626#notes:tags:PVE
