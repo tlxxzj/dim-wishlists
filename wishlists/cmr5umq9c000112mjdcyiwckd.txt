@@ -1,4 +1,11 @@
 title:showmaker
+// 舵手
+dimwishlist:item=3215649176&perks=839105230,3177308360,957782887,47981717#notes:tags:PVP
+// 舵手
+dimwishlist:item=2325078119&perks=839105230,3177308360,957782887,47981717#notes:tags:PVP
+// 高阶暴君
+dimwishlist:item=2873508409&perks=839105230,1092016998,307683764,460017080#notes:tags:PVP
+dimwishlist:item=2873508409&perks=839105230,1092016998,307683764,3081867624#notes:tags:PVP
 // 扎乌利的克星
 dimwishlist:item=3647341740&perks=1840239774,3230963543,3038247973,4293542123#notes:tags:PVE
 // 扎乌利的克星
@@ -30,6 +37,8 @@ dimwishlist:item=2770617440&perks=2890807135,4293542123#notes:tags:PVE
 // 远方黎明
 dimwishlist:item=1484294659&perks=2890807135,4293542123#notes:tags:PVE
 // 痛苦结局
+dimwishlist:item=954563454&perks=1092016998,307683764,557221067#notes:tags:PVP
+dimwishlist:item=954563454&perks=3932949589,557221067#notes:tags:PVE
 dimwishlist:item=954563454&perks=1115162408,557221067#notes:tags:PVE
 // 热血上头
 dimwishlist:item=3960301269&perks=3987942396,3194351027#notes:tags:PVE
@@ -66,6 +75,7 @@ dimwishlist:item=2511482352&perks=3987942396,3194351027#notes:tags:PVE
 // 拜龙教镰刀
 dimwishlist:item=2525261820&perks=2077819806,243981275#notes:tags:PVE
 // 狂热理想
+dimwishlist:item=1863583117&perks=243981275,2890807135#notes:tags:PVE
 dimwishlist:item=1863583117&perks=243981275,2890807135#notes:tags:PVE
 // 阴谋淬砺
 dimwishlist:item=4062069077&perks=1546637391,3078487919#notes:tags:PVE
